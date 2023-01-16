@@ -1,5 +1,5 @@
 Some text for header
 Changes from <master>
-Chenges from <first> 
+Changes from <first>
 
 Text from master: new changes!!!
